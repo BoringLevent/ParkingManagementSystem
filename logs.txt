@@ -1,0 +1,21 @@
+Vehicle ABX502 has entered the parking!
+Vehicle  has left the parking!
+Vehicle ABX502 has entered the parking!
+Vehicle  has left the parking!
+Parking lot has been reset.
+Details of vehicle  have been accessed!
+Vehicle ABX102 has entered the parking!
+Details of vehicle ABX102 have been accessed!
+Vehicle ABX502 has entered the parking!
+Vehicle  has left the parking!
+Details of vehicle  have been accessed!
+Vehicle Toyota has entered the parking!
+Vehicle ABX502 has entered the parking!
+Details of vehicle Toyota have been accessed!
+Vehicle ABX502 has entered the parking!
+Details of vehicle ABX502 have been accessed!
+Vehicle  has left the parking!
+Parking lot has been reset.
+Vehicle ABX502 has entered the parking!
+Details of vehicle ABX502 have been accessed!
+Parking lot has been reset.

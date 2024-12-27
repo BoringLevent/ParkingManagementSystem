@@ -1,0 +1,16 @@
+Vehicle: ABX502 Make & Model: Toyota Vitz Color: Silver
+
+Vehicle: ABX502 Make & Model: Toyota Vitz Color: Silver
+
+Vehicle: ABX102 Make & Model: Toyota Hillux Color: Black
+
+Vehicle: ABX502 Make & Model: Toyota Corolla Color: Black
+
+Vehicle: Toyota Make & Model: Corolla Black Color: Silver
+
+Vehicle: ABX502 Make & Model: Toyota Corolla Color: Black
+
+Vehicle: ABX502 Make & Model: Toyota Corolla Color: Black
+
+Vehicle: ABX502 Make & Model: Toyota Corolla Color: Black
+
